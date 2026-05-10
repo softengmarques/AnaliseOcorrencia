@@ -1,0 +1,30 @@
+RELATÓRIO DE OCORRÊNCIAS AÉREAS
+========================================
+
+TOP 10 ESTADOS COM MAIS OCORRÊNCIAS
+
+UF
+SP               848
+Indeterminado    655
+MT               467
+GO               348
+MG               348
+RS               346
+PR               302
+PA               275
+MS               185
+BA               181
+
+TOP 10 ESTADOS COM MAIS FATALIDADES
+
+UF
+Indeterminado    807.0
+SP               244.0
+MT               137.0
+MG               116.0
+PA               112.0
+PR                83.0
+GO                83.0
+AM                72.0
+RJ                57.0
+BA                49.0
